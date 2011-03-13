@@ -1,0 +1,29 @@
+# FileMaker Log
+TextMate Bundle
+
+## Description ##
+
+This is a bundle for the TextMate text editor.  It provides functionality to enhance reading and processing of import.log files that FileMaker generates when importing or pasting objects.
+
+## Features ##
+
+- Syntax highlighting
+- Command to extract comments only for objects that contained errors
+
+## Installation ##
+
+Just double-click the "FileMaker Log.tmbundle" file. TextMate will install the bundle for you in the following directory:
+	/Library/Application Support/TextMate/Bundles
+
+You can view and edit the bundle contents by selecting the following menu item:
+	Bundles > Bundle Editor > Show Bundle Editor.
+
+## Attribution ##
+
+Donovan Chandler
+Beezwax Datatools, Inc.
+donovan_c@beezwax.net
+
+## History ##
+
+Created 28-Jan-2010 by Donovan Chandler
